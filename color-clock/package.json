@@ -1,0 +1,26 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "trying  npm init out ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FigueroaR/npm-lab-online-web-ft-100719.git"
+  },
+  "keywords": [
+    "learn",
+    "npm"
+  ],
+  "author": "FigueroaR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FigueroaR/npm-lab-online-web-ft-100719/issues"
+  },
+  "homepage": "https://github.com/FigueroaR/npm-lab-online-web-ft-100719#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
